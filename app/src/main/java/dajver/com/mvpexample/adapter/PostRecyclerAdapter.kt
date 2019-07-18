@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import dajver.com.mvpexample.R
 import dajver.com.mvpexample.adapter.holder.PostViewHolder
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 
 class PostRecyclerAdapter(private val postList: List<PostModel>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 

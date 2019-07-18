@@ -5,7 +5,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import dajver.com.mvpexample.adapter.PostRecyclerAdapter
 import dajver.com.mvpexample.mvc.PostsView
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 import dajver.com.mvpexample.mvc.presenter.PostsPresenter
 import dajver.com.mvpexample.mvc.presenter.PostsPresenterImpl
 import kotlinx.android.synthetic.main.activity_main.*

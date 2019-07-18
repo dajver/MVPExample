@@ -1,6 +1,6 @@
 package dajver.com.mvpexample.mvc.presenter
 
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 import dajver.com.mvpexample.mvc.repository.PostsRepository
 import dajver.com.mvpexample.mvc.repository.PostsRepositoryImpl
 import dajver.com.mvpexample.mvc.PostsView

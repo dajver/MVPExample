@@ -1,6 +1,6 @@
 package dajver.com.mvpexample.mvc
 
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 
 interface PostsView {
     fun onPostClick(text: PostModel)

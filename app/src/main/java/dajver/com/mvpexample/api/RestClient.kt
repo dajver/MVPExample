@@ -1,4 +1,4 @@
-package dajver.com.mvpexample.mvc.api
+package dajver.com.mvpexample.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

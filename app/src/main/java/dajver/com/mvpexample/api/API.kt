@@ -1,6 +1,6 @@
-package dajver.com.mvpexample.mvc.api
+package dajver.com.mvpexample.api
 
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 import retrofit2.Call
 import retrofit2.http.GET
 

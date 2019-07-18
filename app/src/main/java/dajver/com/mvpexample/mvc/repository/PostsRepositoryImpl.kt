@@ -1,7 +1,7 @@
 package dajver.com.mvpexample.mvc.repository
 
-import dajver.com.mvpexample.mvc.api.RestClient
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.RestClient
+import dajver.com.mvpexample.api.model.PostModel
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

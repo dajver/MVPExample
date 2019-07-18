@@ -3,7 +3,7 @@ package dajver.com.mvpexample.adapter.holder
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import dajver.com.mvpexample.adapter.PostRecyclerAdapter
-import dajver.com.mvpexample.mvc.api.model.PostModel
+import dajver.com.mvpexample.api.model.PostModel
 import kotlinx.android.synthetic.main.item_posts.view.*
 
 class PostViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
